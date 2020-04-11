@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="script.pvrswitch" version="1.0.2" name="PVR Switch" provider-name="snoopyjoe">
+<addon id="script.pvrswitch" version="1.0.3" name="PVR Switch" provider-name="snoopyjoe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
     </requires>
