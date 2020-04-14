@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Startup">
+        <setting id="delete_logs" type="bool" label="Delete Kodi Crash logs?" default="true" />
+    </category>
+</settings>
